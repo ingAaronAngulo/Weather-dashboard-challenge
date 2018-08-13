@@ -19,6 +19,7 @@ namespace Weather_dashboard_challenge
         /// <summary>
         /// Event that happens when the page is loaded.
         /// Calls the UpdateData with the default settings
+        /// The maximum number of days is 16 due to the licence limitations of the weatherbit api
         /// </summary>
         protected void Page_Load(object sender, EventArgs e)
         {
