@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<parameters>
+  <cities>
+    <city name="Cd.Obregón"/>
+    <city name="Hermosillo"/>
+    <city name="Navojoa"/>
+    <city name="Nogales"/>
+  </cities>
+  <days>
+    <day number="16" value="16"/>
+    <day number="15" value="15"/>
+    <day number="14" value="14"/>
+    <day number="13" value="13"/>
+    <day number="12" value="12"/>
+    <day number="11" value="11"/>
+    <day number="10" value="10"/>
+    <day number="09" value="9"/>
+    <day number="08" value="8"/>
+    <day number="07" value="7"/>
+    <day number="06" value="6"/>
+    <day number="05" value="5"/>
+    <day number="04" value="4"/>
+    <day number="03" value="3"/>
+    <day number="02" value="2"/>
+    <day number="01" value="1"/>
+  </days>
+  <scales>
+    <scale name="Celcius" value="M"/>
+    <scale name="Fahrenheit" value ="I"/>
+  </scales>
+</parameters>

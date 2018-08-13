@@ -1,0 +1,60 @@
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\Weather dashboard challenge.dll.config
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\Weather dashboard challenge.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\Weather dashboard challenge.pdb
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\csc.exe
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\csc.exe.config
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\csc.rsp
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\csi.exe
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\csi.exe.config
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\csi.rsp
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\System.AppContext.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\System.Console.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\System.IO.Compression.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\System.IO.Pipes.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\System.Security.Claims.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\System.Threading.Thread.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\System.ValueTuple.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\System.Xml.XPath.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\vbc.exe
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\vbc.exe.config
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\vbc.rsp
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\VBCSCompiler.exe
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\obj\Debug\Weather dashboard challenge.csproj.CoreCompileInputs.cache
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\obj\Debug\Weather dashboard challenge.csproj.CopyComplete
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\obj\Debug\Weather dashboard challenge.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\obj\Debug\Weather dashboard challenge.pdb
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\Newtonsoft.Json.dll
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\bin\Newtonsoft.Json.xml
+C:\Users\orlan\source\repos\Weather dashboard challenge\Weather dashboard challenge\obj\Debug\Weather dashboard challenge.csprojAssemblyReference.cache
